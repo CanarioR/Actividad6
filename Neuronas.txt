@@ -1,0 +1,36 @@
+
+ID: 5
+Posicion x:111
+Posicion y: 111
+Red: 111
+Green: 111
+Blue: 111
+Voltaje: 111.230003
+ID: 3
+Posicion x:123
+Posicion y: 33
+Red: 55
+Green: 55
+Blue: 55
+Voltaje: 12.456000
+ID: 1
+Posicion x:12
+Posicion y: 32
+Red: 111
+Green: 222
+Blue: 333
+Voltaje: 123.230003
+ID: 2
+Posicion x:123
+Posicion y: 3333
+Red: 40
+Green: 11
+Blue: 111
+Voltaje: 222.559998
+ID: 4
+Posicion x:222
+Posicion y: 333
+Red: 1
+Green: 167
+Blue: 180
+Voltaje: 1235.109985
